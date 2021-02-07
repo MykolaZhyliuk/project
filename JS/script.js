@@ -16,7 +16,6 @@ const a = prompt('Один из последних просмотрених фи
       d = prompt('На сколько оцените его?', '');
 
 
-
 personaMovieDB.movies[a] = b;
 personaMovieDB.movies[c] = d;
 
